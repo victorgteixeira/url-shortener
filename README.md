@@ -39,7 +39,7 @@ Encurtador de URL minimalista, com **Nest.js**, **Prisma** e **SQLite** por padr
 ### 2) Clone e instale
 
 ```bash
-git clone <SEU_REPO>.git url-shortener
+git clone https://github.com/victorgteixeira/url-shortener
 cd url-shortener
 npm ci
 ```
